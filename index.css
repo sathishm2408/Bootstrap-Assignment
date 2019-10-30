@@ -1,0 +1,66 @@
+.headers{
+    background-color: #0db4bd !important;
+    color: white;
+}
+
+a{
+    color: #fff
+}
+
+.navbar-header > a{
+    color: white !important
+}
+
+.headers .container ul>li>a{
+    color: white !important
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+    background-color: #36cad2 !important;
+}
+
+.nav .active{
+    background-color: #36cad2 !important;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+  }
+
+body> .container{
+    margin-top: 60px;
+}
+
+.icon-bar{
+  background-color: white;
+}
+
+.multipurpose{
+    margin:5%;
+}
+
+.icon-size{
+    font-size: 5rem;
+    color: #0db4bd;
+    margin: 5%;
+}
+
+button{
+    margin: 10px !important;
+    border-color: black;
+    background-color: white;
+}
+
+.row{
+    margin: 5%;
+}
+
+footer{
+    background-color: #0db4bd;   
+}
+
+span{
+    margin:5px;
+}
